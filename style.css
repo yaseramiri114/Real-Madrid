@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+    background-color: gray;
+    font-style: italic;
+}
+h1{
+    color: gold;
+}
+p{
+   font-size: large;
+   font-weight: bolder;
+}
+.football{
+    color: gold;
+}
